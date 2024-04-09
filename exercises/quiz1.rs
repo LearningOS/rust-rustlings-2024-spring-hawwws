@@ -16,7 +16,7 @@
 
 
 // Put your function here!
-fn calculate_price_of_apples(num: i32) -> i32{
+fn calculate_price_of_apples(num: u32) -> u32{
     if(num > 40){
         num
     }else{
